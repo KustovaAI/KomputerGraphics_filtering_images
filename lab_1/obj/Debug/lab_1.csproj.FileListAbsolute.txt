@@ -1,0 +1,50 @@
+c:\users\kustova.a\source\repos\lab_1\lab_1\bin\Debug\lab_1.exe.config
+c:\users\kustova.a\source\repos\lab_1\lab_1\bin\Debug\lab_1.exe
+c:\users\kustova.a\source\repos\lab_1\lab_1\bin\Debug\lab_1.pdb
+c:\users\kustova.a\source\repos\lab_1\lab_1\obj\Debug\lab_1.csprojAssemblyReference.cache
+c:\users\kustova.a\source\repos\lab_1\lab_1\obj\Debug\lab_1.Form1.resources
+c:\users\kustova.a\source\repos\lab_1\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+c:\users\kustova.a\source\repos\lab_1\lab_1\obj\Debug\lab_1.csproj.GenerateResource.cache
+c:\users\kustova.a\source\repos\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+c:\users\kustova.a\source\repos\lab_1\lab_1\obj\Debug\lab_1.exe
+c:\users\kustova.a\source\repos\lab_1\lab_1\obj\Debug\lab_1.pdb
+D:\рабочий стол\настя\Компьютерная гррафика\lab_1\lab_1\bin\Debug\lab_1.exe.config
+D:\рабочий стол\настя\Компьютерная гррафика\lab_1\lab_1\bin\Debug\lab_1.exe
+D:\рабочий стол\настя\Компьютерная гррафика\lab_1\lab_1\bin\Debug\lab_1.pdb
+D:\рабочий стол\настя\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.csprojAssemblyReference.cache
+D:\рабочий стол\настя\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.Form1.resources
+D:\рабочий стол\настя\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+D:\рабочий стол\настя\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.csproj.GenerateResource.cache
+D:\рабочий стол\настя\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+D:\рабочий стол\настя\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.exe
+D:\рабочий стол\настя\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.pdb
+D:\lab_1\lab_1\bin\Debug\lab_1.exe.config
+D:\lab_1\lab_1\bin\Debug\lab_1.exe
+D:\lab_1\lab_1\bin\Debug\lab_1.pdb
+D:\lab_1\lab_1\obj\Debug\lab_1.csprojAssemblyReference.cache
+D:\lab_1\lab_1\obj\Debug\lab_1.Form1.resources
+D:\lab_1\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+D:\lab_1\lab_1\obj\Debug\lab_1.csproj.GenerateResource.cache
+D:\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+D:\lab_1\lab_1\obj\Debug\lab_1.exe
+D:\lab_1\lab_1\obj\Debug\lab_1.pdb
+D:\настя\Компьютерная гррафика\lab_1\lab_1\bin\Debug\lab_1.exe.config
+D:\настя\Компьютерная гррафика\lab_1\lab_1\bin\Debug\lab_1.exe
+D:\настя\Компьютерная гррафика\lab_1\lab_1\bin\Debug\lab_1.pdb
+D:\настя\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.csprojAssemblyReference.cache
+D:\настя\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.Form1.resources
+D:\настя\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+D:\настя\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.csproj.GenerateResource.cache
+D:\настя\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+D:\настя\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.exe
+D:\настя\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.pdb
+D:\Nastya\2 курс\Компьютерная гррафика\lab_1\lab_1\bin\Debug\lab_1.exe.config
+D:\Nastya\2 курс\Компьютерная гррафика\lab_1\lab_1\bin\Debug\lab_1.exe
+D:\Nastya\2 курс\Компьютерная гррафика\lab_1\lab_1\bin\Debug\lab_1.pdb
+D:\Nastya\2 курс\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.csprojAssemblyReference.cache
+D:\Nastya\2 курс\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.Form1.resources
+D:\Nastya\2 курс\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.Properties.Resources.resources
+D:\Nastya\2 курс\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.csproj.GenerateResource.cache
+D:\Nastya\2 курс\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.csproj.CoreCompileInputs.cache
+D:\Nastya\2 курс\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.exe
+D:\Nastya\2 курс\Компьютерная гррафика\lab_1\lab_1\obj\Debug\lab_1.pdb
